@@ -19,12 +19,3 @@ Para rodar o backend em sua máquina, siga o seguinte passo a passo:
 3. Garanta que o node esteja na versão 18: `nvm use 18`.
 4. Rode `npm install` para instalar todas as dependências.
 5. Rode `npm start` para iniciar a api.
-
-### Instalação do frontend
-
-Para rodar o frontend em sua máquina, siga o seguinte passo a passo:
-
-1. Inicie o backend.
-2. Entre na pasta do frontend: `cd frontend`.
-3. Rode `npm install` para instalar todas as dependências.
-4. Rode `npm start` para abrir o projeto web no browser.
